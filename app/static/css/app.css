@@ -1,3 +1,37 @@
 body {
     padding-top: 5rem;
 }
+Strong{
+  color:rgb(192, 40, 40);
+}
+label {
+    font-weight: bold;
+}
+
+input {
+    border-radius: 5px; 
+    color: grey;
+}
+
+textarea {
+    border-radius: 5px; 
+}
+
+button{
+    width: 100px;
+    border-radius: 5px; 
+    background-color:#007bff; 
+    color:white
+}
+
+.flashes {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background: #f0f0f0; 
+    color: red; 
+    font-weight: Bold;
+}
